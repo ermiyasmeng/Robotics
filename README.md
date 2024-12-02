@@ -1,2 +1,2 @@
-# Arduino-Projects
- These are some of the arduino projects I'm working on
+Media Pipe Pose
+This project will use computer vision to track human motion and use microcontrollers and motors to replicate the motion
